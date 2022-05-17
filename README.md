@@ -1,1 +1,2 @@
-# C30-AA-1
+# Clase-31.Valeria
+Cambios de sprites 
